@@ -1,4 +1,4 @@
-### Hey, welcome! I´m Laura Tavares
+## Hey, welcome! I´m Laura Tavares
 
 - 👩🏻‍💻 I’m currently learning Python
 
